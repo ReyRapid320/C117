@@ -1,0 +1,34 @@
+body{
+    background-color: palegreen;
+}
+
+h1{
+    color: darkcyan;
+    background-color: rgb(174, 255, 183);
+}
+
+#show_sketch
+{
+    background-color: darkcyan;
+    float:right
+}
+
+#score{
+    margin-left: 20px;
+    font-size: 35px;
+}
+
+#time{
+    margin-right: 20px;
+     font-size: 35px;
+     float: right;
+}
+
+p{
+    font-size: 25px;
+    font-family: 'Oswald', 'sans-serif';
+    color: black;
+}
+#sketch_to_be_drawn{
+    color: red;
+}
